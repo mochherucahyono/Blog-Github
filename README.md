@@ -1,3 +1,4 @@
 # Blog-Github
 Rangkuman Materi Arsikom
-# Komputer Dan Komponen CPU
+# KOMPUTER DAN KOMPONEN CPU
+# Komponen Utama :
