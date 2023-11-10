@@ -1,3 +1,3 @@
 # Rangkuman Materi Arsikom
-# KOMPUTER DAN KOMPONEN CPU
-# Komponen Utama :
+ KOMPUTER DAN KOMPONEN CPU
+ Komponen Utama :
